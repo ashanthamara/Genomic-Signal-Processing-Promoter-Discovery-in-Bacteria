@@ -6,7 +6,7 @@ clear;
 exec('support_functions.sce');
 // Define raw data files
 fasta_file = 'NZ_CP075108.1.fasta';
-protein_table = 'NZ_CP075108.1.txt';
+protein_table = 'NZ_CP0751508.1.txt';
 
 
 [sen_gene_pos, antisen_gene_pos, sen_ncod, antisen_ncod] = get_protein_pos_array(protein_table);
