@@ -1,0 +1,29 @@
+------- Number of genes from the protein table -------
+Number of Genes in the Sense Strand : 2188
+Number of Genes in the Anti-Sense Strand: 2089
+
+------- Base Distribution | Sense Strand -------
+Number of Base A: 474153
+Number of Base C: 524340
+Number of Base G: 581928
+Number of Base T: 478930
+
+------- Base Distribution | Sense Strand non coding region -------
+Number of Base A: 631626
+Number of Base C: 693512
+Number of Base G: 633330
+Number of Base T: 631085
+
+------- Base Distribution | Sense Strand non coding region -------
+Total Number of Base A: 1105779
+Total nNumber of Base C: 1217852
+Total Number of Base G: 1215258
+Total Number of Base T: 1110015
+
+Total Number of Base pairs: 4648904
+
+------- Base Distribution | Anti-Sense Strand -------
+Number of Base A: 458738
+Number of Base C: 496258
+Number of Base G: 554820
+Number of Base T: 461739

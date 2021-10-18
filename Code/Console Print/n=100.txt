@@ -1,0 +1,132 @@
+------- Position Frequency Matrix -------
+   46.01   32.01   34.01   36.01   34.01   35.01   29.01   31.01   31.01   30.01
+   0.01    2.01    6.01    8.01    15.01   14.01   21.01   21.01   14.01   16.01
+   0.01    0.01    3.01    9.01    9.01    13.01   18.01   13.01   25.01   29.01
+   44.01   56.01   47.01   37.01   32.01   28.01   22.01   25.01   20.01   15.01
+
+
+------- Position Probabillity Matrix -------
+         column 1 to 8
+   0.5109951   0.3555087   0.377721    0.3999334   0.377721    0.3888272   0.3221901   0.3444025
+   0.0001111   0.0223234   0.0667481   0.0889605   0.1667037   0.1555975   0.2333407   0.2333407
+   0.0001111   0.0001111   0.0334296   0.1000666   0.1000666   0.1444913   0.2000222   0.1444913
+   0.4887828   0.6220569   0.5221013   0.4110395   0.3555087   0.311084    0.2444469   0.2777654
+         column 9 to 10
+   0.3444025   0.3332963
+   0.1555975   0.1778099
+   0.2777654   0.3221901
+   0.2222346   0.1667037
+
+   65.   84.   84.   84.   65.   65.   65.   65.   65.   65.
+
+
+------- Benchmark Consensus Scores -------
+Initial PPM Benchmark Consensus Score = -8.96652
+
+Reduced PPM Benchmark Consensus Score = -4.60330 
+
+
+------- Threshold = -1 -------
+Sense Strand | Test set gene count = 299
+Sense Strand | Test set VALID gene count = 28
+Sense Strand | Test set VALID gene percentage = 9.36
+Sense Strand | Test set Reduced VALID gene count = 117
+Sense Strand | Test set Reduced VALID gene percentage = 39.13
+
+Anti Sense Strand | Test set gene count = 1251
+Anti Sense Strand | Test set VALID gene count = 110
+Anti Sense Strand | Test set VALID gene percentage = 8.79 
+Anti Sense Strand | Test set Reduced VALID gene count = 483
+Anti Sense Strand | Test set Reduced VALID gene percentage = 38.61
+
+Total | Test set gene count = 1550
+Total | Test set VALID gene count = 138
+Total | Test set VALID gene percentage = 8.90
+Total | Test set Reduced VALID gene count = 600
+Total | Test set Reduced VALID gene percentage = 38.71
+Total | Proportion of genes that do not have promotors = 91.10
+Total | Proportion of reduced genes that do not have promotors = 61.29
+
+------- Threshold = -2 -------
+Sense Strand | Test set gene count = 299
+Sense Strand | Test set VALID gene count = 115
+Sense Strand | Test set VALID gene percentage = 38.46
+Sense Strand | Test set Reduced VALID gene count = 215
+Sense Strand | Test set Reduced VALID gene percentage = 71.91
+
+Anti Sense Strand | Test set gene count = 1251
+Anti Sense Strand | Test set VALID gene count = 433
+Anti Sense Strand | Test set VALID gene percentage = 34.61 
+Anti Sense Strand | Test set Reduced VALID gene count = 858
+Anti Sense Strand | Test set Reduced VALID gene percentage = 68.59
+
+Total | Test set gene count = 1550
+Total | Test set VALID gene count = 548
+Total | Test set VALID gene percentage = 35.35
+Total | Test set Reduced VALID gene count = 1073
+Total | Test set Reduced VALID gene percentage = 69.23
+Total | Proportion of genes that do not have promotors = 64.65
+Total | Proportion of reduced genes that do not have promotors = 30.77
+
+------- Threshold = -3 -------
+Sense Strand | Test set gene count = 299
+Sense Strand | Test set VALID gene count = 198
+Sense Strand | Test set VALID gene percentage = 66.22
+Sense Strand | Test set Reduced VALID gene count = 256
+Sense Strand | Test set Reduced VALID gene percentage = 85.62
+
+Anti Sense Strand | Test set gene count = 1251
+Anti Sense Strand | Test set VALID gene count = 791
+Anti Sense Strand | Test set VALID gene percentage = 63.23 
+Anti Sense Strand | Test set Reduced VALID gene count = 1059
+Anti Sense Strand | Test set Reduced VALID gene percentage = 84.65
+
+Total | Test set gene count = 1550
+Total | Test set VALID gene count = 989
+Total | Test set VALID gene percentage = 63.81
+Total | Test set Reduced VALID gene count = 1315
+Total | Test set Reduced VALID gene percentage = 84.84
+Total | Proportion of genes that do not have promotors = 36.19
+Total | Proportion of reduced genes that do not have promotors = 15.16
+
+------- Threshold = -4 -------
+Sense Strand | Test set gene count = 299
+Sense Strand | Test set VALID gene count = 250
+Sense Strand | Test set VALID gene percentage = 83.61
+Sense Strand | Test set Reduced VALID gene count = 282
+Sense Strand | Test set Reduced VALID gene percentage = 94.31
+
+Anti Sense Strand | Test set gene count = 1251
+Anti Sense Strand | Test set VALID gene count = 994
+Anti Sense Strand | Test set VALID gene percentage = 79.46 
+Anti Sense Strand | Test set Reduced VALID gene count = 1173
+Anti Sense Strand | Test set Reduced VALID gene percentage = 93.76
+
+Total | Test set gene count = 1550
+Total | Test set VALID gene count = 1244
+Total | Test set VALID gene percentage = 80.26
+Total | Test set Reduced VALID gene count = 1455
+Total | Test set Reduced VALID gene percentage = 93.87
+Total | Proportion of genes that do not have promotors = 19.74
+Total | Proportion of reduced genes that do not have promotors = 6.13
+
+------- Threshold = -5 -------
+Sense Strand | Test set gene count = 299
+Sense Strand | Test set VALID gene count = 271
+Sense Strand | Test set VALID gene percentage = 90.64
+Sense Strand | Test set Reduced VALID gene count = 289
+Sense Strand | Test set Reduced VALID gene percentage = 96.66
+
+Anti Sense Strand | Test set gene count = 1251
+Anti Sense Strand | Test set VALID gene count = 1132
+Anti Sense Strand | Test set VALID gene percentage = 90.49 
+Anti Sense Strand | Test set Reduced VALID gene count = 1213
+Anti Sense Strand | Test set Reduced VALID gene percentage = 96.96
+
+Total | Test set gene count = 1550
+Total | Test set VALID gene count = 1403
+Total | Test set VALID gene percentage = 90.52
+Total | Test set Reduced VALID gene count = 1502
+Total | Test set Reduced VALID gene percentage = 96.90
+Total | Proportion of genes that do not have promotors = 9.48
+Total | Proportion of reduced genes that do not have promotors = 3.10
